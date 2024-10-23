@@ -44,7 +44,7 @@ logger['level'] = giftedtech_0x2e751b(0x1b6);
 const msgRetryCounterCache = new giftedtech_0x20b18f(), __filename = new URL(import.meta[giftedtech_0x2e751b(0x1d6)])[giftedtech_0x2e751b(0x1c1)], __dirname = giftedtech_0x16fc8b['dirname'](__filename), sessionDir = giftedtech_0x16fc8b['join'](__dirname, 'session'), credsPath = giftedtech_0x16fc8b['join'](sessionDir, 'creds.json');
 function giftedtech_0x6fce() {
     const _0x508bab = [
-        '🔒\x20Session\x20File\x20Processed,\x20Starting\x20Gifted-Md.',
+        '🔒\x20Session\x20File\x20Processed,\x20Starting\x20maria-Md.',
         '🔒\x20Session\x20file\x20found,\x20proceeding\x20without\x20QR\x20code.',
         '#32CD32',
         'exit',
@@ -85,7 +85,7 @@ function giftedtech_0x6fce() {
         'PORT',
         'pathname',
         ',\x22time\x22:\x22',
-        'Gifted\x20Server\x20Live\x20on\x20Port\x20',
+        'maria\x20Server\x20Live\x20on\x20Port\x20',
         '13YGwxTe',
         '7739149bastzC',
         'remoteJid',
@@ -110,12 +110,12 @@ function giftedtech_0x6fce() {
         'close',
         'temp/gifted.html',
         'open',
-        '𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃\x20𝐕𝟓\x20𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃\x0a\x0a𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞\x20\x20:\x20Cpanel\x20\x0a𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦:\x20Whatsapp\x20\x0a𝐎𝐰𝐧𝐞𝐫\x20\x20\x20\x20:\x20t.me/mouricedevs\x0a𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬\x20\x20:\x20youtube.com/@giftedtechnexus\x0a𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥\x20:\x20https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l\x0a\x0a>\x20𝐏𝐎𝐖𝐄𝐑𝐄𝐃\x20𝐁𝐘\x20𝐆𝐈𝐅𝐓𝐄𝐃\x20𝐓𝐄𝐂𝐇',
+        'MARIA-𝐌𝐃\x20BOT\x20𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃\x0a\x0a𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞\x20\x20:\x20Cpanel\x20\x0a𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦:\x20Whatsapp\x20\x0a𝐎𝐰𝐧𝐞𝐫\x20\x20\x20\x20:\x20t.me/PAPAIGWE\x0a𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬\x20\x20:\x20youtube.com/@igwetech\x0a𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥\x20:\x20https://whatsapp.com/channel/0029VaYauR9ISTkHTj\x0a\x0a>\x20𝐏𝐎𝐖𝐄𝐑𝐄𝐃\x20𝐁𝐘\x20IGWE\x20𝐓𝐄𝐂𝐇',
         'AUTO_REACT',
         'log',
         'promises',
         '831658WicRJN',
-        '✅WHATSAPP\x20LOGIN\x20SUCCESSFUL,\x20𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃\x20𝐕𝟓\x20𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃!',
+        '✅WHATSAPP\x20LOGIN\x20SUCCESSFUL,\x20MARIA-𝐌𝐃\x20MD\x20𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃!',
         'existsSync',
         'user',
         'child'
@@ -176,7 +176,7 @@ async function start() {
             if (_0x130482 === _0x4c761c(0x1d9))
                 _0x45fa19[_0x4c761c(0x1f4)]?.[_0x4c761c(0x1b5)]?.[_0x4c761c(0x1bd)] !== DisconnectReason[_0x4c761c(0x1f0)] && start();
             else
-                _0x130482 === _0x4c761c(0x1db) && (initialConnection ? (console['log'](giftedtech_0x2fb45c[_0x4c761c(0x1f3)]('✅WHATSAPP\x20LOGIN\x20SUCCESSFUL,\x20𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃\x20𝐕𝟓\x20𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃')), _0x1dfdf1[_0x4c761c(0x1be)](_0x1dfdf1[_0x4c761c(0x1e3)]['id'], { 'text': _0x4c761c(0x1dc) }), initialConnection = ![]) : console[_0x4c761c(0x1de)](giftedtech_0x2fb45c[_0x4c761c(0x1f2)](_0x4c761c(0x1cc))));
+                _0x130482 === _0x4c761c(0x1db) && (initialConnection ? (console['log'](giftedtech_0x2fb45c[_0x4c761c(0x1f3)]('✅WHATSAPP\x20LOGIN\x20SUCCESSFUL,\x20MARIA-𝐌𝐃\x20MD\x20𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃')), _0x1dfdf1[_0x4c761c(0x1be)](_0x1dfdf1[_0x4c761c(0x1e3)]['id'], { 'text': _0x4c761c(0x1dc) }), initialConnection = ![]) : console[_0x4c761c(0x1de)](giftedtech_0x2fb45c[_0x4c761c(0x1f2)](_0x4c761c(0x1cc))));
         }), _0x1dfdf1['ev']['on'](_0x4194b6(0x1bc), _0x35f274), _0x1dfdf1['ev']['on'](_0x4194b6(0x1b2), async _0x13e445 => await Handler(_0x13e445, _0x1dfdf1, logger)), _0x1dfdf1['ev']['on'](_0x4194b6(0x1f8), async _0x28c603 => await Callupdate(_0x28c603, _0x1dfdf1)), _0x1dfdf1['ev']['on'](_0x4194b6(0x1d2), async _0x598500 => await GroupUpdate(_0x1dfdf1, _0x598500));
         if (giftedtech_0xcc77d1[_0x4194b6(0x1bb)] === _0x4194b6(0x1ea))
             _0x1dfdf1[_0x4194b6(0x1ea)] = !![];
