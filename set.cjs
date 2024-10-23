@@ -1,4 +1,4 @@
-// GIFTED-TECH 
+// IGWE-TECH 
 const fs = require("fs");
 require("dotenv").config();
 
@@ -19,8 +19,8 @@ const config = {
   AUTO_REJECT_CALLS: process.env.AUTO_REJECT_CALLS !== undefined ? process.env.AUTO_REJECT_CALLS === 'true' : false, 
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
-  OWNER_NAME: process.env.OWNER_NAME || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254762016957",
+  OWNER_NAME: process.env.OWNER_NAME || "IGWE ᴛᴇᴄʜ",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "24160338758",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyAkHGe6qWMujR2BjM468vQbY2RIbp0VXyc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
